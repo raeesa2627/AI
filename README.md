@@ -74,4 +74,33 @@ Cloud Platform
 
 ---
 
-## Repository Structure
+
+---
+
+## Prototype Overview
+
+The prototype demonstrates how AI can assist students and developers in:
+
+- Learning programming concepts faster  
+- Practicing coding problems efficiently  
+- Preparing for technical interviews  
+- Improving productivity through AI guidance  
+
+---
+
+## Future Development
+
+Future improvements may include:
+
+- Voice-based AI interview simulation  
+- Real-time coding interview evaluation  
+- Multilingual AI support for regional languages  
+- Mobile application for wider accessibility  
+
+---
+
+## Vision
+
+Our vision is to build an AI-powered learning ecosystem that empowers students and developers across Bharat to learn smarter, code faster, and build better technology.
+
+---
