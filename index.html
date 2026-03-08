@@ -646,7 +646,7 @@
       chatHistory.push({ role: "user", parts: [{ text: text }] });
 
       // Use backend proxy for Gemini API
-      fetch("/chat", {
+      fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
